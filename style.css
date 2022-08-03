@@ -10,7 +10,7 @@ body{
 	min-height: 100vh;
 	margin: 0;
 	font-family: 'Segoe UI';
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 button:hover{
